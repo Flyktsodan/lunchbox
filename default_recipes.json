@@ -2,6 +2,7 @@
    "version":1,
    "categories":[
       {
+         "id":1,
          "name":"Pasta 🍝",
          "color":"#FFFF00",
          "recipes":[
@@ -14,6 +15,7 @@
          ]
       },
       {
+         "id":2,
          "name":"Vegetariskt 🥦",
          "color":"#008000",
          "recipes":[
@@ -29,7 +31,8 @@
          ]
       },
       {
-         "name":"Husmanskost",
+         "id":3,
+         "name":"Husmanskost 🇸🇪",
          "color":"#FF0000",
          "recipes":[
             "https://www.koket.se/per_morberg/varmratter/gronsaker__potatis_och_andra_rotfrukter/per_morbergs_raggmunk_med_flask/",
@@ -42,7 +45,8 @@
          ]
       },
       {
-         "name":"Soppor",
+         "id":4,
+         "name":"Soppor 🍲",
          "color":"#0000FF",
          "recipes":[
             "https://www.arla.se/recept/potatis--och-purjolokssoppa/",
