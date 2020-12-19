@@ -3,7 +3,7 @@
    "categories":[
       {
          "id":1,
-         "name":"🍝 | Pasta",
+         "name":"🍝 - Pasta",
          "color":"#FFFF00",
          "recipes":[
             "https://www.koket.se/klassisk-spaghetti-carbonara",
@@ -16,7 +16,7 @@
       },
       {
          "id":2,
-         "name":"🥦 | Vegetariskt",
+         "name":"🥦 - Vegetariskt",
          "color":"#008000",
          "recipes":[
             "https://www.koket.se/sallad-med-rostad-sotpotatis-halloumi-och-belugalinser",
@@ -32,7 +32,7 @@
       },
       {
          "id":3,
-         "name":"🇸🇪 | Husmanskost",
+         "name":"🇸🇪 - Husmanskost",
          "color":"#FF0000",
          "recipes":[
             "https://www.koket.se/per_morberg/varmratter/gronsaker__potatis_och_andra_rotfrukter/per_morbergs_raggmunk_med_flask/",
@@ -47,7 +47,7 @@
       },
       {
          "id":4,
-         "name":"🍲 | Soppor",
+         "name":"🍲 - Soppor",
          "color":"#0000FF",
          "recipes":[
             "https://www.arla.se/recept/potatis--och-purjolokssoppa/",
@@ -60,7 +60,7 @@
       },
       {
          "id":5,
-         "name":"🇬🇧 | Recept på Engelska",
+         "name":"🇬🇧 - Recept på Engelska",
          "color":"#76a45f",
          "recipes":[
             "https://www.jamieoliver.com/recipes/fish-recipes/quick-fish-cakes/"
