@@ -57,6 +57,14 @@
             "https://www.koket.se/gulaschsoppa-pa-notfars",
             "https://www.koket.se/veggie-gulasch"
          ]
-      }
+      },
+      {
+         "id":5,
+         "name":"Recept på Engelska 🇬🇧",
+         "color":"#76a45f",
+         "recipes":[
+            "https://www.jamieoliver.com/recipes/fish-recipes/quick-fish-cakes/"
+         ]
+      }      
    ]
 }
