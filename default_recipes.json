@@ -5,66 +5,32 @@
          "id":1,
          "name":"Pasta",
          "color":"#FFFF00",
-         "recipes":[
-            "https://www.koket.se/klassisk-spaghetti-carbonara",
-            "https://www.koket.se/pasta-med-tonfiskcreme-och-tomatsas",
-            "https://www.koket.se/spaghetti-med-morot-och-timjansas",
-            "https://www.ica.se/recept/cappelletti-in-brodo-726735/",
-            "https://www.koket.se/kramig-pastasallad-nicoise-",
-            "https://www.koket.se/pasta-med-farska-tomater-smorstekt-vitlok-och-krasse"
-         ]
+         "recipes":[]
       },
       {
          "id":2,
          "name":"Vegetariskt",
          "color":"#008000",
-         "recipes":[
-            "https://www.koket.se/sallad-med-rostad-sotpotatis-halloumi-och-belugalinser",
-            "https://www.koket.se/chili-sin-carne-siri-barjes-recept",
-            "https://www.koket.se/gronsaksbiffar-med-tzatziki-och-rostad-potatis",
-            "https://www.koket.se/vegetarisk-kalpudding-med-potatis",
-            "https://www.koket.se/spenatgryta-med-ingefara-och-chili",
-            "https://www.koket.se/chiligryta-med-farskpotatis-och-paprika",
-            "https://www.koket.se/spansk-kikartsgryta-med-vegansk-aioli",
-            "https://www.koket.se/black-bean-taco-med-rodkal-och-avokado",
-            "https://www.koket.se/halloumi-tikka-masala-med-ris-och-cashewnotter"
-         ]
+              "recipes":[]
       },
       {
          "id":3,
          "name":"Husmanskost",
          "color":"#FF0000",
-         "recipes":[
-            "https://www.koket.se/per_morberg/varmratter/gronsaker__potatis_och_andra_rotfrukter/per_morbergs_raggmunk_med_flask/",
-            "https://www.koket.se/kottbullar-med-potatismos-pressgurka-och-rarorda-lingon",
-            "https://www.koket.se/husmorsorna/anette-rosvall-och-emma-hamberg/ugnspannkaka-med-flask/",
-            "https://www.koket.se/forkvall/johan-jureskog/johan-jureskogs-kalpudding/",
-            "https://www.koket.se/mitt-kok/jennie-wallden/klassisk-kottfarssas-med-spaghetti/",
-            "https://www.koket.se/sara_begner/soppor_och_grytor/korv_och_chark/korv_stroganoff/",
-            "https://www.koket.se/pelle-johansson/gratang/kyckling-och-fagel/flygande-jacob/",
-            "https://www.koket.se/lasagne-de-luxe"
-         ]
+          "recipes":[]
       },
       {
          "id":4,
          "name":"Soppor",
          "color":"#0000FF",
-         "recipes":[
-            "https://www.arla.se/recept/potatis--och-purjolokssoppa/",
-            "https://www.koket.se/rod-linssoppa-med-basilika-och-vitlok",
-            "https://www.koket.se/grekisk-vegosoppa-med-grona-linser",
-            "https://www.koket.se/annika_wesslen/varmratter/kyckling_och_fagel/asiatisk_kycklingsoppa/",
-            "https://www.koket.se/gulaschsoppa-pa-notfars",
-            "https://www.koket.se/veggie-gulasch"
-         ]
+         "recipes":[]
+
       },
       {
          "id":5,
          "name":"Recept på Engelska",
          "color":"#76a45f",
-         "recipes":[
-            "https://www.jamieoliver.com/recipes/fish-recipes/quick-fish-cakes/"
-         ]
+            "recipes":[]
       }      
    ]
 }
